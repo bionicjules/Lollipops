@@ -18,3 +18,4 @@ Generalised, this suggests a battery with lot of internal surface area (between 
 
 I don't know whether this would work, and it's possibly already being used in advanced design (e.g. make one component granular in a continuous matrix - but capable of reforming itself to change the specific surface area). This sounds almost sensible! There are other possibilities - allow charged particles to move towards a heat sink that can radiate heat, Etc. etc. Starts to sound like an agency system.
 It's possible for the ontology to work and bring in a model from an unlikely source - (Reference: Current Biology 20, 1758-1762). This one looks more reasonable to longer I think about it!
+
