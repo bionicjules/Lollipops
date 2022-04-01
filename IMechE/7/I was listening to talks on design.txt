@@ -1,0 +1,16 @@
+#Ontology LIVE
+I was listening to talks on design; the first meeting of a design community. One of the speakers was talking about the systems approach and came up with the supply of electricity - batteries for cars - as an example. He posited a systems trade-off that I thought I could use as a test for the ontology. His trade off was:
+A: Battery needs to be lighter with greater energy density
+B: Charging will probably cause higher temperatures, reducing charging rate and charge density
+TRIZ equivalents, as used in the ontology, define the trade-off at a broad level:
+A: (1) net energy �(2) rate of use
+B: (1) durability �(2) thermal condition �(3) external source of harm
+I tried these (6 possible pairs) against each other. A(1) vs B(3) was the most productive - 5 examples from the ontology. Going more deeply into the details available from the Inventive Principles, I decided to look at one where krill (planktonic crustacea) live in constant danger of being eaten. They form a tight swarm, but then have a problem with getting enough oxygen. When they visit the surface of the swarm to access open water, they are open to predation. So there is a secondary trade-off in design between the volume of the swarm (keep it small) and the amount of surface area of the swarm to allow space for individuals to access oxygen. This is resolved by making the surface of the swarm highly convoluted and rough.
+The principles thus revealed are:
+Segmentation - divide the bulk or the surface into lots of separate zones or parts. This could be adventitious.
+Consolidation - bring together a large number of identical objects
+Defence - change shape or size
+Reversal - change the organisation from regular to chaotic.
+Generalised, this suggests a lot of internal surface area (between two major components?) formed of particles that are more or less identical, can change shape or size and do it in a chaotic (responsive?) manner.
+I don't know whether this would work, and it�s possibly already being used in advanced design (e.g. make one component granular in a continuous matrix - but capable of reforming itself to change the specific surface area). This sounds almost sensible! There are other possibilities - allow charged particles to move towards a heat sink that can radiate heat, Etc. etc. Starts to sound like an agency system.
+It's possible for the ontology to work and bring in a model from an unlikely source - (Reference: Current Biology 20, 1758-1762). This one looks more reasonable to longer I think about it!
